@@ -9,7 +9,7 @@ Hi everybody, sorry for my English,
 
 --- This script works on Debian type servers.
 
---- This script requires the installation of vitualbox and the creation of virtual machine of the same OS as the server to be replaced with an opening of user account, automatic and the basic pre-installation of the services concerned by each server as well as the creation of a functional backup and authorizing connection to the root account via ssh connecting with pre-configured ssh keys.
+--- This script requires the installation of vitualbox and the creation of virtual machine of the same OS as the server to be replaced with an opening of user account, automatic and the basic pre-installation of the services concerned by each server as well as the creation of a functional backup of name : "192.168.x.x.tar.gz " and authorizing connection to the root account via ssh connecting with pre-configured ssh keys.
 
 Configuration:
 
@@ -40,7 +40,7 @@ Bonjour à tous,
 
 --- ce script fonctionne sur les serveurs type debian.
 
---- ce script nécessite l'installation de virtualbox et la créaton de machine virtuelle du même OS que le serveur à remplacer avec une ouverture de compte utilisateur automatique et la pré-installation de base des services concernés par chaque serveur ainsi que la création d'une backup fonctionnelle et de l'autorisation de connection au compte root via ssh se connectant avec des clés ssh pré-configurées.
+--- ce script nécessite l'installation de virtualbox et la créaton de machine virtuelle du même OS que le serveur à remplacer avec une ouverture de compte utilisateur automatique et la pré-installation de base des services concernés par chaque serveur ainsi que la création d'une backup fonctionnelle de nom : "192.168.x.x.tar.gz" et de l'autorisation de connection au compte root via ssh se connectant avec des clés ssh pré-configurées.
 
 Configuration:
 
